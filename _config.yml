@@ -21,7 +21,7 @@ title: "Papan Tulis Heriyosh"
 description: "Tangi turu nulis, nulis ben iso turu."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "assets/images/logo1.jpeg"
+logo: "assets/images/bioPictures/logo1.jpeg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
