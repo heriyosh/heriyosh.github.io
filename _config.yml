@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: id_ID
 title: "Papan Tulis Heriyosh"
 description: "Tangi turu nulis, nulis ben iso turu."
-baseurl: "/"
+baseurl: ""
 url: "heriyosh.github.io"
 logo: "/assets/images/bioPictures/logo1.jpeg"
 date_format: "%B %-d, %Y"
