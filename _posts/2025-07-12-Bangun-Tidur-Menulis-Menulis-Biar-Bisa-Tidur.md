@@ -10,7 +10,7 @@ author: Heriyosh
 
 Bangun Tidur Menulis, Menulis Biar Bisa Tidur
 
-![Visualisasi]({{ '/assets/images/articlePictures/picture1.jpg' | absolute_url }}){: .align-left width="55%" }
+![Visualisasi]({{ '/assets/images/articlePictures/picture1.jpg' | relative_url }}){: .align-left width="55%" }
 
 “Aku menulis, maka aku ada. Aku berpikir, maka aku menggenggam keberadaan. Menulis bukan sekadar menyusun kata, tapi merawat kewarasan.”
 
