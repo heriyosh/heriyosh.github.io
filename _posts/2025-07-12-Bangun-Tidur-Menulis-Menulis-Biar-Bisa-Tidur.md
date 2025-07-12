@@ -1,14 +1,16 @@
 ---
 title:  "Tangi Turu Nulis, Nulis Ben Iso Turu"
 categories:
-  - Pikiranku
+  - pikiranku
 tags:
-  - Pikiranku
-last_modified_at: 2025-07-12
+  - pikiranku
+date: 2025-07-12
 author: Heriyosh
 ---
 
 Bangun Tidur Menulis, Menulis Biar Bisa Tidur
+
+![Visualisasi]({{ '/assets/images/articlePictures/picture1.jpg' | absolute_url }}){: .align-left width="55%" }
 
 “Aku menulis, maka aku ada. Aku berpikir, maka aku menggenggam keberadaan. Menulis bukan sekadar menyusun kata, tapi merawat kewarasan.”
 

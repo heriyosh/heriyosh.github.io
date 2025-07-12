@@ -1,6 +1,9 @@
 # Site navigation links
-
+- title: Beranda
+  url: /
 - title: Pikiranku
   url: /pikiranku/
 - title: Curhatanku
   url: /curhatanku/
+- title: tentang manusia aneh
+  url: /tentangmanusiaaneh/
