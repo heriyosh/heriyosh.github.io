@@ -1,5 +1,5 @@
 ---
-title:  "Menelusuri Jejak Sekolah: Dari Athena ke Cuernavaca"
+title: "Menelusuri Jejak Sekolah: Dari Athena ke Cuernavaca"
 categories:
   - pikiranku
 tags:
@@ -22,4 +22,4 @@ Bab ini bukan sekadar kritik, tapi undangan: mari mempertanyakan kembali sekolah
 
 Dan mungkin dari sanalah, pembebasan dimulai.
 
-"SELAMAT HARI PENDIDIKAN NASIONAL 2 MEI 2025"
+**SELAMAT HARI PENDIDIKAN NASIONAL 2 MEI 2025**

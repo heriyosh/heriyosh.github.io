@@ -4,7 +4,7 @@ title: Tentang Manusia Aneh
 permalink: /tentangmanusiaaneh/
 ---
 
-Heriyosh
+**Heriyosh**
 
 Nama Pena Seorang Manusia Aneh dari Desa Kecil
 
@@ -24,7 +24,7 @@ Heriyosh menulis bukan untuk menjadi siapa-siapa. Ia menulis karena itulah satu-
 
 Tulisan-tulisannya kerap lahir dari luka yang tak sempat disembuhkan, dari pertanyaan yang tak pernah selesai, dari cinta yang patah tapi tak ingin dilupakan. Ia menulis tentang desa, tentang petani, tentang anak-anak yang tumbuh tanpa suara, tentang orang tua yang menua tanpa sempat bercerita. Ia menulis bukan untuk dikenang banyak orang, tapi agar satu-dua jiwa yang menemukan tulisannya tahu: mereka tidak sendiri.
 
-Di balik kesunyiannya, Heriyosh menyimpan komitmen yang nyata: ia memilih untuk menyerahkan hidupnya bersama kaum miskin kota, petani miskin di desa, dan komunitas minoritas yang sering dilupakan. Baginya, menjadi manusia berarti merasakan yang dirasakan oleh yang paling tak terpinggirkan. Satu hal yang paling ia benci adalah kebijakan yang menindas dan menyakiti yang lemah. Maka dalam diam dan tulisannya, ia melawan—bukan dengan amarah, tapi dengan keberpihakan yang setia.
+Di balik kesunyiannya, Heriyosh menyimpan komitmen yang nyata: ia memilih untuk menyerahkan hidupnya bersama kaum miskin kota, petani miskin di desa, dan komunitas minoritas yang sering dilupakan. Baginya, menjadi manusia berarti merasakan yang dirasakan oleh yang paling terpinggirkan. Satu hal yang paling ia benci adalah kebijakan yang menindas dan menyakiti yang lemah. Maka dalam diam dan tulisannya, ia melawan—bukan dengan amarah, tapi dengan keberpihakan yang setia.
 
 Nama pena Heriyosh adalah kompromi antara masa lalu dan masa kini. “Heri” dari nama kecilnya yang sederhana, dan “yosh”—sebuah gumaman harapan. Harapan bahwa meski sunyi, tulisannya tetap bisa menjadi cahaya kecil: mungkin redup, tapi cukup untuk menemani orang-orang yang juga sedang mencari jalan.
 

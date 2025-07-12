@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
-skin: "/assets/css/skins/light.css"
+skin: "/assets/css/skins/default.css"
 locale: id_ID
 title: "Papan Tulis Heriyosh"
 description: "Tangi turu nulis, nulis ben iso turu."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/pikiranku"
+url: "heriyosh.github.io"
 logo: "/assets/images/bioPictures/logo1.jpeg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -79,6 +79,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  curhatanku:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -88,6 +94,15 @@ defaults:
     values:
       layout: post
       share: true
+      comments: true
+  # Curhatanku defaults
+  - scope:
+      path: "_curhatanku"
+      type: curhatanku
+    values:
+      layout: post
+      share: true
+      comments: true
 
 # Site Author
 author:

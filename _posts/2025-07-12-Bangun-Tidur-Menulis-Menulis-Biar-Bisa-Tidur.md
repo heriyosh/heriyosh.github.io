@@ -1,5 +1,5 @@
 ---
-title:  "Tangi Turu Nulis, Nulis Ben Iso Turu"
+title: "Tangi Turu Nulis, Nulis Ben Iso Turu"
 categories:
   - pikiranku
 tags:

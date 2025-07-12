@@ -1,5 +1,5 @@
 ---
-title:  "Mendidik untuk Membebaskan: Menyambung Gagasan Ki Hajar dan Roem"
+title: "Mendidik untuk Membebaskan: Menyambung Gagasan Ki Hajar dan Roem"
 categories:
   - pikiranku
 tags:
