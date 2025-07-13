@@ -7,7 +7,11 @@ tags:
 date: 2025-07-13
 author: Heriyosh
 ---
-Dusun Dlangin Kidul di Kecamatan Jumapolo, Karanganyar, tampak seperti dusun desa pada umumnya—sunyi, ramah, dan sederhana. Namun di balik keteduhan rumah dan kebun, tersimpan potret getir kehidupan petani yang semakin tergeser dari tanahnya sendiri, bahkan dari martabatnya sebagai produsen pangan.
+Dusun Dlangin Kidul di Kecamatan Jumapolo, Karanganyar, tampak seperti dusun desa pada umumnya—sunyi, ramah, dan sederhana. Namun di balik 
+
+![Visualisasi]({{ '/assets/images/articlePictures/20250630_115426.jpg' | relative_url }}){: .align-left width="55%" }
+
+keteduhan rumah dan kebun, tersimpan potret getir kehidupan petani yang semakin tergeser dari tanahnya sendiri, bahkan dari martabatnya sebagai produsen pangan.
 
 Pada akhir Juni 2025, kami—Aliansi Gerakan Reforma Agraria, Serikat Tani Bumi Intanpari, Front Mahasiswa Nasional, dan BEM FP UNS—melakukan riset potensi desa di wilayah ini. Hasilnya mencemaskan: mayoritas warga tidak lagi menggantungkan hidup dari bertani. Mereka lebih berharap pada uang kiriman anak atau saudara yang merantau ke kota atau luar negeri.
 
