@@ -1,5 +1,5 @@
 ---
-title:"Petani Dlangin Kidul Bertahan di Tengah Penghisapan Sistemik"
+title: "Petani Dlangin Kidul Bertahan di Tengah Penghisapan Sistemik"
 categories:
   - pikiranku
 tags:
