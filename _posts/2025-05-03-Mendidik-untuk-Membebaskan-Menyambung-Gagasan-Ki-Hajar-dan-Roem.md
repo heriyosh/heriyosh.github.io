@@ -4,7 +4,7 @@ categories:
   - pikiranku
 tags:
   - pikiranku
-date: 2025-05-2
+date: 2025-05-3
 author: Heriyosh
 ---
 
