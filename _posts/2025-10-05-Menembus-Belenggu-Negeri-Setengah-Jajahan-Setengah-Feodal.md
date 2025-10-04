@@ -29,7 +29,7 @@ Jawaban dari semua persoalan itu bukanlah sekadar pergantian kekuasaan, bukan pu
 
 Sementara itu, industrialisasi nasional adalah upaya membangun kekuatan produksi sendiri, berbasis pada sumber daya dan tenaga kerja dalam negeri, di bawah kendali bangsa sendiri. Tanpa industrialisasi yang mandiri, bangsa ini akan terus menjadi pasar bagi produk asing, bukan produsen bagi kesejahteraan rakyatnya.
 
-Perjuangan melawan imperialisme, feodalisme, dan kapitalisme birokrat bukan sekadar wacana ideologis. Ia adalah kenyataan hidup sehari-hari jutaan rakyat yang tertindas. Karena itu, perjuangan rakyat harus terus digelorakan — di tanah-tabah yang dirampas, di pabrik-pabrik yang menindas, di desa-desa yang terpinggirkan, dan di jalanan tempat suara keadilan terus disuarakan.
+Perjuangan melawan imperialisme, feodalisme, dan kapitalisme birokrat bukan sekadar wacana ideologis. Ia adalah kenyataan hidup sehari-hari jutaan rakyat yang tertindas. Karena itu, perjuangan rakyat harus terus digelorakan — di tanah-tanah yang dirampas, di pabrik-pabrik yang menindas, di desa-desa yang terpinggirkan, dan di jalanan tempat suara keadilan terus disuarakan.
 
 Selama tanah masih dikuasai segelintir orang, selama kekayaan bangsa masih disedot keluar negeri, dan selama kekuasaan masih tunduk pada kepentingan modal, maka kemerdekaan sejati belumlah tiba. Dan selama itu pula, tugas sejarah rakyat Indonesia adalah menembus belenggu negeri setengah jajahan, setengah feodal — menuju Indonesia yang berdaulat atas tanahnya, berdiri di atas tenaganya sendiri, dan berdaulat dalam menentukan masa depannya.
 
